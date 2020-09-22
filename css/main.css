@@ -55,6 +55,10 @@ nav {
   position: absolute;
   bottom: 0;
   padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
 }
 
 /* parte principale */
